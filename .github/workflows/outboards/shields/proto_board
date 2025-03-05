@@ -1,0 +1,13 @@
+# Copyright 2021 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+# outboard_repository=pdmthorsrud/proto-board-shield
+# outboard_ref=main
+# outboard_from=app/boards/shields/pockettype
+# outboard_to=boards/shields/pockettype
+
+outboard_repository=sfgabe/zmk-config-pockettype
+outboard_ref=master
+outboard_from=boards/shields/proto
+outboard_to=boards/shields/proto_board
+
