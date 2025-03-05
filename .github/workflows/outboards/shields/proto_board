@@ -7,7 +7,7 @@
 # outboard_to=boards/shields/pockettype
 
 outboard_repository=https://github.com/pdmthorsrud/proto-board-shield
-outboard_ref=master
+outboard_ref=main
 outboard_from=boards/shields/proto
-outboard_to=boards/shields/proto_board
+outboard_to=boards/shields/proto
 
