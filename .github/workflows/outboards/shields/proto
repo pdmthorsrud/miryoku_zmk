@@ -10,4 +10,3 @@ outboard_repository=https://github.com/pdmthorsrud/zmk_proto
 outboard_ref=main
 outboard_from=app/boards/shields/proto
 outboard_to=boards/shields/proto
-
