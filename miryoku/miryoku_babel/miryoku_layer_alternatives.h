@@ -362,7 +362,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 #define MIRYOKU_ALTERNATIVES_SYM \
 &kp LBRC,          &kp LS(N2),          &kp LS(LA(N8)),         &kp LS(LA(N9)),          &kp LS(N9),          U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
-&kp COLON,         &kp ALTGR(RIGHT_BRACE),          &kp LS(N8),         &kp LS(N9),         &kp UNDERSCORE,          U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
+&kp COLON,         &kp LS(N2),          &kp LS(N8),         &kp LS(N9),         &kp UNDERSCORE,          U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
 &kp TILDE,         &kp EXCL,          &kp LA(N8),         &kp LA(N9),          &kp LS(N1),          U_NA,              &u_to_U_SYM,       &u_to_U_MOUSE,     &kp RALT,          U_NA,              \
 &kp BACKSLASH,              U_NP,              &kp LPAR,          &kp RPAR,          &kp UNDER,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
