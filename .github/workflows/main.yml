@@ -370,6 +370,6 @@ jobs:
       - name: upload
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ steps.main.outputs.run_name }}
+          name: "test"
           path: ${{ steps.main.outputs.artifact_dir }}
 
